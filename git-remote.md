@@ -1,7 +1,7 @@
-#  git remote add origin https://github.com/adsiar/apuntes-de-git.git
+##  git remote add origin https://github.com/adsiar/apuntes-de-git.git
 Con este comando vinculamos nuestro repositorio local con Github.
 
-## Pasos para aportar a otro repositorio
+### Pasos para aportar a otro repositorio
 1. Hacer un fork en Github.
 2. Clonar el repositorio desde mi cuenta de Github.
 3. Crear una rama local.
@@ -11,5 +11,5 @@ Con este comando vinculamos nuestro repositorio local con Github.
 7. Crear un pull request con la nueva rama de mi repositorio en Github.
 8. Esperar que el administrador del repositorio original acepte mis cambios.
 
-## Varios repositorios remotos
+### Varios repositorios remotos
 Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
